@@ -1,0 +1,22 @@
+{
+  "name": "meituan",
+  "version": "1.0.0",
+  "description": "My majestic Nuxt.js project",
+  "author": "Li-Lei-jiang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "iview": "^3.1.5",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2",
+    "sass-node": "^4.11.2"
+  },
+  "devDependencies": {}
+}
